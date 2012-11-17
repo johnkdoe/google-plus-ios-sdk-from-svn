@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'GoogleOpenSource' target in the 'GoogleOpenSource' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif
